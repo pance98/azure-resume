@@ -27,7 +27,7 @@ namespace Company.Function
 
             updatedCounter = counter;
             updatedCounter.Count += 1;
-
+            //ss
             var jsonToReturn = JsonConvert.SerializeObject(counter);
 
             return new HttpResponseMessage(System.Net.HttpStatusCode.OK)
