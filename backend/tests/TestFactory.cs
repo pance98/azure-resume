@@ -19,6 +19,7 @@ namespace tests
 
         public static ILogger CreateLogger(LoggerTypes type = LoggerTypes.Null)
         {
+            // test
             ILogger logger;
 
             if (type == LoggerTypes.List)

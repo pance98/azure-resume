@@ -19,6 +19,7 @@ namespace tests
         [Fact]
         public async void Http_trigger_should_return_known_string()
         {
+            
             var counter = new Company.Function.Counter();
             counter.Id = "1";
             counter.Count = 2;
