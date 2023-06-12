@@ -9,8 +9,6 @@ This repository contains the solution to the Cloud Resume Challenge, a project a
 - [Overview](#overview)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Getting Started](#getting-started)
-- [Deployment](#deployment)
 - [License](#license)
 
 ## Overview
